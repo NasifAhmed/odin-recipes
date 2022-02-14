@@ -1,5 +1,7 @@
 # Odin Recipes
+
 Its part of The Odin Project tutorial
 
-## Goals :
+## Goals
+
 - Create a basic HTML page following Odin Project's tutorial
